@@ -10,3 +10,10 @@ The PQS LandControl Subnode is from Sushut's ElpamaxeSystem Mod (https://spacedo
 All configs in this mod are distributed under the GPL-3.0 license (https://choosealicense.com/licenses/gpl-3.0/)
 The planet textures found in the VuhrantiSystem-Textures folder and terrain textures found in the VuhrantiSystem-Terrain folder are distributed under the CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0/)
 OrbitIconsPack, which is bundled with VuhrantiSystem, is also distributed under the CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Dependencies:
+* [Kopernicus](https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-august-29th-2024/) Release-196 or newer & its dependencies
+* [KSPCommunityFixes](https://forum.kerbalspaceprogram.com/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/)
+
+Recommended Mods:
+* [BetterTimeWarpContinued](https://forum.kerbalspaceprogram.com/topic/154935-112x-bettertimewarpcontinued-customizable-time-warp-and-lossless-physics-warp/)
