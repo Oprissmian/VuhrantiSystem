@@ -18,3 +18,6 @@ Dependencies:
 Recommended Mods:
 * [BetterTimeWarpContinued](https://forum.kerbalspaceprogram.com/topic/154935-112x-bettertimewarpcontinued-customizable-time-warp-and-lossless-physics-warp/)
 * [HUDReplacer](https://forum.kerbalspaceprogram.com/topic/216056-wip-112x-hudreplacer-v1211-beta/)
+
+My modding projects also have a discord server now!
+[Link to the Discord server](https://discord.gg/57w8HjEQyp)
